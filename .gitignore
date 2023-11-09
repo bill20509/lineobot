@@ -1,0 +1,8 @@
+node_modules/*
+configOptions.js
+sendLevelZeroUser.js
+xer-staging-firebase-adminsdk-tol6w-81b7c21344.json
+xer-389903-firebase-adminsdk-mszgn-03f50e988b.json
+mrming-firebase-adminsdk-ove8r-73d01eb135.json
+.DS_Store
+.env

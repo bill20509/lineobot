@@ -1,0 +1,58 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/mrming_img/vote_party_2",
+  "altText": "政黨民調",
+  "baseSize": { "width": 1040, "height": 1040 },
+  "actions": [
+    {
+      "area": { "x": 47, "y": 344, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給國民黨"
+    },
+    {
+      "area": { "x": 279, "y": 344, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給民進黨"
+    },
+    {
+      "area": { "x": 511, "y": 344, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給新黨"
+    },
+    {
+      "area": { "x": 744, "y": 344, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給綠黨"
+    },
+    {
+      "area": { "x": 42, "y": 618, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給親民黨"
+    },
+    {
+      "area": { "x": 279, "y": 618, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給時代力量"
+    },
+    {
+      "area": { "x": 510, "y": 618, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給台灣基進黨"
+    },
+    {
+      "area": { "x": 743, "y": 618, "width": 220, "height": 220 },
+      "type": "message",
+      "text": "投給民眾黨"
+    },
+    {
+      "area": { "x": 52, "y": 934, "width": 450, "height": 83 },
+      "type": "message",
+      "text": "都不投政黨"
+    },
+    {
+      "area": { "x": 539, "y": 938, "width": 450, "height": 83 },
+      "type": "message",
+      "text": "未決定政黨"
+    }
+  ]
+}

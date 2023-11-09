@@ -1,0 +1,38 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/mrming_img/vote_candidate",
+  "altText": "總統民調",
+  "baseSize": { "width": 1040, "height": 1040 },
+  "actions": [
+    {
+      "area": { "x": 535, "y": 396, "width": 219, "height": 415 },
+      "type": "message",
+      "text": "投給柯文哲"
+    },
+    {
+      "area": { "x": 32, "y": 396, "width": 219, "height": 415 },
+      "type": "message",
+      "text": "投給賴清德"
+    },
+    {
+      "area": { "x": 282, "y": 396, "width": 219, "height": 415 },
+      "type": "message",
+      "text": "投給侯友宜"
+    },
+    {
+      "area": { "x": 787, "y": 396, "width": 219, "height": 415 },
+      "type": "message",
+      "text": "投給郭台銘"
+    },
+    {
+      "area": { "x": 49, "y": 932, "width": 460, "height": 92 },
+      "type": "message",
+      "text": "都不投候選人"
+    },
+    {
+      "area": { "x": 536, "y": 932, "width": 460, "height": 92 },
+      "type": "message",
+      "text": "未決定候選人"
+    }
+  ]
+}

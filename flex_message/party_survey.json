@@ -1,0 +1,91 @@
+{
+    "type": "bubble",
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "text",
+          "text": "政黨傾向",
+          "margin": "sm",
+          "size": "16px",
+          "weight": "bold"
+        },
+        {
+          "type": "separator"
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "民進黨",
+            "text": "傾向民進黨"
+          } 
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "國民黨",
+            "text": "傾向國民黨"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "民眾黨",
+            "text": "傾向民眾黨"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "時代力量",
+            "text": "傾向時代力量"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "台灣基進",
+            "text": "傾向台灣基進"
+          }
+        },
+        {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "中立",
+              "text": "傾向中立"
+            }
+        },
+        {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "其他",
+              "text": "傾向其他"
+            }
+        }
+      ],
+      "flex": 0
+    }
+  }

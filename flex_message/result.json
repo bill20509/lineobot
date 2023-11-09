@@ -1,0 +1,281 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/candidate%20result_bg.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/candidate_1.png",
+            "gravity": "bottom",
+            "size": "100%",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1.3",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "image",
+            "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/candidate_2.png",
+            "gravity": "bottom",
+            "size": "100%",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1.3",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "image",
+            "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/candidate_3.png",
+            "gravity": "bottom",
+            "size": "100%",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1.3",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "image",
+            "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/candidate_4.png",
+            "gravity": "bottom",
+            "size": "90%",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1.3",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/logo_1.png"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "height": "87%",
+                "backgroundColor": "#27C8C8",
+                "borderWidth": "1px",
+                "borderColor": "#A6AABB"
+              }
+            ],
+            "width": "5%",
+            "height": "100%",
+            "position": "absolute",
+            "offsetStart": "20%",
+            "justifyContent": "flex-end"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/logo_2.png"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "height": "87%",
+                "backgroundColor": "#0D9B09",
+                "borderWidth": "1px",
+                "borderColor": "#78D154"
+              }
+            ],
+            "width": "5%",
+            "height": "100%",
+            "position": "absolute",
+            "offsetStart": "44%",
+            "justifyContent": "flex-end"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/logo_3.png"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "height": "87%",
+                "backgroundColor": "#0000AA",
+                "borderWidth": "1px",
+                "borderColor": "#4F6CFB"
+              }
+            ],
+            "width": "5%",
+            "height": "100%",
+            "position": "absolute",
+            "offsetStart": "68%",
+            "justifyContent": "flex-end"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://storage.googleapis.com/candidate_poll_bot/candidate_result_img/logo_4.png"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "height": "87%",
+                "backgroundColor": "#A6AABB",
+                "borderWidth": "1px",
+                "borderColor": "#CAC9CA"
+              }
+            ],
+            "width": "5%",
+            "height": "100%",
+            "position": "absolute",
+            "offsetStart": "92%",
+            "justifyContent": "flex-end"
+          }
+        ],
+        "position": "absolute",
+        "width": "100%",
+        "height": "43%",
+        "offsetBottom": "32%"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "柯文哲",
+                "color": "#FFFFFF",
+                "weight": "regular",
+                "size": "18px"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [],
+                "borderWidth": "light",
+                "borderColor": "#FFFFFF",
+                "width": "50%",
+                "margin": "2px"
+              },
+              {
+                "type": "text",
+                "text": "number1",
+                "color": "#FFFFFF",
+                "weight": "regular",
+                "size": "18px"
+              }
+            ],
+            "justifyContent": "center",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "賴清德",
+                "color": "#FFFFFF",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "number2",
+                "color": "#FFFFFF",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "侯友宜",
+                "color": "#FFFFFF",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "number3",
+                "color": "#FFFFFF",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "color": "#FFFFFF",
+                "weight": "bold",
+                "text": "郭台銘"
+              },
+              {
+                "type": "text",
+                "text": "number1",
+                "color": "#FFFFFF",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "alignItems": "center"
+          }
+        ],
+        "width": "100%",
+        "height": "15%",
+        "position": "absolute",
+        "offsetBottom": "12%"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "資料時間 : date",
+            "color": "#FFFFFF",
+            "size": "14px",
+            "weight": "bold",
+            "align": "end"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "0%",
+        "width": "100%",
+        "height": "5%",
+        "alignItems": "flex-end"
+      }
+    ],
+    "paddingAll": "0px",
+    "justifyContent": "center"
+  }
+}

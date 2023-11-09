@@ -1,0 +1,18 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/mrming_img/poll_now",
+  "altText": "進行中的民調",
+  "baseSize": { "width": 1040, "height": 1040 },
+  "actions": [
+    {
+      "area": { "x": 23, "y": 285, "width": 996, "height": 356 },
+      "type": "message",
+      "text": "政黨民調"
+    },
+    {
+      "area": { "x": 23, "y": 665, "width": 996, "height": 356 },
+      "type": "message",
+      "text": "候選人民調"
+    }
+  ]
+}

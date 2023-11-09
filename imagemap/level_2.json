@@ -1,0 +1,23 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/mrming_img/level2",
+  "altText": "你目前的人類等級: Level 2 人臉驗證可以更確保每一票都是人類，尚未開放。",
+  "baseSize": { "width": 1040, "height": 1040 },
+  "actions": [
+    {
+      "area": { "x": 105, "y": 760, "width": 835, "height": 102 },
+      "type": "message",
+      "text": "開始投票"
+    },
+    {
+      "area": { "x": 730, "y": 908, "width": 310, "height": 114 },
+      "type": "message",
+      "text": "族群設定"
+    },
+    {
+      "area": { "x": 705, "y": 247, "width": 252, "height": 453 },
+      "type": "message",
+      "text": "Level 3"
+    }
+  ]
+}

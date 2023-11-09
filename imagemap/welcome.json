@@ -1,0 +1,13 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/mrming_img/welcome",
+  "altText": "民調君 動態全民調 LINE上的第一個區塊鏈民調系統",
+  "baseSize": { "width": 1040, "height": 1040 },
+  "actions": [
+    {
+      "area": { "x": 104, "y": 880, "width": 835, "height": 100 },
+      "type": "message",
+      "text": "開始驗證"
+    }
+  ]
+}
